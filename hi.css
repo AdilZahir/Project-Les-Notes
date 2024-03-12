@@ -1,0 +1,49 @@
+body
+{   
+    background-color: rgb(247, 242, 242);
+    background-size: 100%;
+    color: rgb(24, 23, 23);
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.5;
+    color:#0c2121
+}
+h1 {
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    color: rgb(186, 180, 245);
+}
+input {
+    margin: 5px;
+    padding: 8px;
+}
+.ja {
+    letter-spacing: 5px;
+}
+button {
+    padding: 10px;
+    background-color: #008080;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.li {
+   
+    background-color: green;
+    
+    
+}
+.lo {
+ background-color: red;
+
+}
+.pt{
+    font-size: 1.5em;
+    
+}
+.ci{
+    color: black;
+}
